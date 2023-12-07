@@ -29,3 +29,8 @@
   will show you which art
 - So you must try it :)
 - Thanks a lot :)
+
+# How to run the program
+- Enter the number from 1 to 8
+- Open the python turtle graphic to see the picture
+- Done!!
