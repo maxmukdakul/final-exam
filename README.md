@@ -16,4 +16,15 @@
   randomly
 - Then get the input int from 1 to 8
 - Every number have the different art
+- 1 means random triangle
+- 2 means random square
+- 3 means random pentagon
+- 4 means random triangle, square, pentagon
+- 5 means random 3 triangle
+- 6 means random 3 square
+- 7 means random 3 pentagon
+- 8 means random 3 triangle, square, pentagon
+- Then about my program
+- I use if and elif to make the conditions that the number you entered 
+  will show you which art
 - So you must try it :)
