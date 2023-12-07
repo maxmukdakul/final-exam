@@ -4,7 +4,7 @@
 - Read the instructions given in the course's Google Classroom and start coding
 - Once you are done, push your final code to your Github repo and modify this README to report on the work you have done
 
-# the error
+# error
 - If you input the int more than 8
 - If you input the int less than 1
 - If you input the string
