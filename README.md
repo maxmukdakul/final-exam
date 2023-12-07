@@ -28,4 +28,4 @@
 - I use if and elif to make the conditions that the number you entered 
   will show you which art
 - So you must try it :)
-- Thanks
+- Thanks :)
